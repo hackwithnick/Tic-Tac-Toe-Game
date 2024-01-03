@@ -11,7 +11,6 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using HT
 - [Features](#features)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 To run the game locally, follow these steps:
